@@ -76,8 +76,5 @@ The purpose of this database project is to:
 The ER diagram illustrates all relationships between tables.
 
 Add your diagram file and embed it here:
-![ER Diagram](er-diagram.png)
+A_Entity-Relationship_(ER)_diagram_illustrates_a_s.png
 
-
-```markdown
-![ER Diagram](er-diagram.png)
