@@ -76,4 +76,5 @@ The purpose of this database project is to:
 The ER diagram illustrates all relationships between tables.
 
 Add your diagram file and embed it here:
-ER-DIAGRAM.png
+![ER Diagram](ER-DIAGRAM.png)
+
