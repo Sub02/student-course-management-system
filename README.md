@@ -79,4 +79,3 @@ Add your diagram file and embed it here:
 
 ```markdown
 ![ER Diagram](er-diagram.png)
-![er Diagram](er-diagram.png)
